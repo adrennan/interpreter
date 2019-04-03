@@ -1,0 +1,22 @@
+function a ( )
+	
+	x = 5 
+	y = 3
+	
+
+	if ~= y 0 then
+		z = 1
+		r = x
+		while < z y
+		do
+			r = * r x 
+			z = + z 1 
+		end	
+		x = r
+	else
+		x = 1
+	end
+	
+	print ( x )
+
+end
